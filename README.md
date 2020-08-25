@@ -15,6 +15,7 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 </p>
 
 <br>
+
 ##### Detailed Article
 
 - Users can click on any news cell to read the detail article
