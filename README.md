@@ -1,6 +1,7 @@
-# iOS News Search App (CSCI571-Web Technologies)
+# iOS News Search App 
 
-Implemented an iOS mobile news app that demonstrated news of different categories and created a personalized bookmark for users to save articles and to share on their own social media.<br>
+(CSCI571-Web Technologies final project) <br>
+Implemented an iOS mobile news app that demonstrated news of different categories and created a personalized bookmark for users to save articles and to share on their own social media<br><br>
 **Skills: React, React-Bootstrap, Node.js, Swift, Google Cloud App Engine, Xcode,JSON, CocoaPods, Model-View-Controller (MVC) design, OpenWeather API, Guardian API, Bing Autosuggest, Google Trends API** <br>
 ### Features
 ##### Home Tab
@@ -11,4 +12,13 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 	<img src="./imgs/hometab.png" width="250px" />
 	<img src="./imgs/autosuggest.png" width="250px" />
 	<img src="./imgs/searchresult.png" width="250px" />
+</p>
+
+- Users can click on any news cell to read the detail article
+- Displaying a spinner when loading different scenes
+- Clicking on the Twitter icon on top-right to share news on users' own social medias
+ <p>
+	<img src="./imgs/click.png" width="250px" />
+	<img src="./imgs/spinner.png" width="250px" />
+	<img src="./imgs/twitter.png" width="250px" />
 </p>
