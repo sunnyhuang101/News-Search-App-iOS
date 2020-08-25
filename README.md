@@ -14,6 +14,9 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 	<img src="./imgs/searchresult.png" width="250px" />
 </p>
 
+<br>
+##### Detailed Article
+
 - Users can click on any news cell to read the detail article
 - Displaying a spinner when loading different scenes
 - Clicking on the Twitter icon on top-right to share news on users' own social medias
