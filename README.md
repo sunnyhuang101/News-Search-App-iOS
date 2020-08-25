@@ -14,7 +14,7 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 	<img src="./imgs/searchresult.png" width="250px" />
 </p>
 
-<br>
+
 
 ##### Detailed Article
 
@@ -25,4 +25,14 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 	<img src="./imgs/click.png" width="250px" />
 	<img src="./imgs/spinner.png" width="250px" />
 	<img src="./imgs/twitter.png" width="250px" />
+</p>
+
+##### Personalized Bookmark
+- Clicking the bookmark icon on top-right to add/remove articles to/from users' bookmark tabs
+- Users can also long press a cell in home tab to add/remove articles to/from bookmark tabs and share on Twitter
+- Adding articles to bookmark tab allows users to read articles more conveniently
+<p>
+	<img src="./imgs/bookmarked.png" width="250px" />
+	<img src="./imgs/longpress.png" width="250px" />
+	<img src="./imgs/bookmark.png" width="250px" />
 </p>
