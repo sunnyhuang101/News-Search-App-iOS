@@ -41,6 +41,6 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 - Headlines Tab shows top news of different categories including world, business, politics, sports, technology and science
 - Trending Tab shows the search frequency of a particular term over time. Users can enter keywords to search trending of different terms
 <p>
-	<img src="./imgs/headlines.png" width="250px" />
+	<img src="./imgs/category.png" width="250px" />
 	<img src="./imgs/trending.png" width="250px" />
 </p>
