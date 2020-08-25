@@ -5,7 +5,7 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 **Skills: React, React-Bootstrap, Node.js, Swift, Google Cloud App Engine, Xcode,JSON, CocoaPods, Model-View-Controller (MVC) design, OpenWeather API, Guardian API, Bing Autosuggest, Google Trends API** <br>
 ### Features
 ##### Home Tab
-- Home Tab includes a search bar, a subview to show weather, and a table of news cells
+- Home Tab includes a search bar, a subview to show weather, and a table of top news cells sorted from most recent published date
 - Weather subview shows weather information based on user location
 - Search bar shows some autosuggestions after user enter some words and the result page shows related news articles according to the keyword
 <p>
@@ -28,11 +28,19 @@ Implemented an iOS mobile news app that demonstrated news of different categorie
 </p>
 
 ##### Personalized Bookmark
-- Clicking the bookmark icon on top-right to add/remove articles to/from users' bookmark tabs
-- Users can also long press a cell in home tab to add/remove articles to/from bookmark tabs and share on Twitter
-- Adding articles to bookmark tab allows users to read articles more conveniently
+- Clicking the bookmark icon on top-right to add/remove articles to/from users' Bookmark Tabs
+- Users can also long press a cell in Home Tab to add/remove articles to/from Bookmark Tabs and share on Twitter
+- Adding articles to Bookmark Tab allows users to read articles more conveniently
 <p>
 	<img src="./imgs/bookmarked.png" width="250px" />
 	<img src="./imgs/longpress.png" width="250px" />
 	<img src="./imgs/bookmark.png" width="250px" />
+</p>
+
+##### Headlines Tab/Trending Tab
+- Headlines Tab shows top news of different categories including world, business, politics, sports, technology and science
+- Trending Tab shows the search frequency of a particular term over time. Users can enter keywords to search trending of different terms
+<p>
+	<img src="./imgs/headlines.png" width="250px" />
+	<img src="./imgs/trending.png" width="250px" />
 </p>
