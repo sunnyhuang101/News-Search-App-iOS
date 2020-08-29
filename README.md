@@ -3,6 +3,9 @@
 (CSCI571-Web Technologies final project) <br>
 Implemented an iOS mobile news app that demonstrated news of different categories and created a personalized bookmark for users to save articles and to share on their own social media<br><br>
 **Skills: Node.js, Swift, Google Cloud App Engine, Xcode,JSON, CocoaPods, Model-View-Controller (MVC) design, OpenWeather API, Guardian API, Bing Autosuggest, Google Trends API** <br>
+### Demo Video
+<a href="https://www.youtube.com/watch?v=ACKow5_yrRM&feature=youtu.be"><img src="./imgs/cover.png"  width="720" height="540" border="10"/></a>
+<br>
 ### Features
 ##### Home Tab
 - Home Tab includes a search bar, a subview to show weather, and a table of top news cells sorted from most recent published date
